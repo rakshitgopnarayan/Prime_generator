@@ -17,4 +17,4 @@ while(t!=0):
             print(i, end=" ")
     t-=1
     print()
-    print()
+    
